@@ -101,11 +101,6 @@ footer {
     text-align: justify
 }
 
-.custom-tooltip {
-    --bs-tooltip-bg: var(--bd-violet-bg);
-    --bs-tooltip-color: var(--bs-white);
-}
-
 footer i {
     font-size: 1.5rem;
     color: white;
